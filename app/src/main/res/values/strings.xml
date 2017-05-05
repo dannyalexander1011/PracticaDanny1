@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="TITULO1">CALCULADOR DE IMC</string>
+    <string name="TITULO2">PESO EN KG</string>
+    <string name="TITULO3">ESTATURA EN METROS</string>
+    <string name="TITULO4">CALCULAR</string>
+    <string name="TITULO5">ACERCA DE</string>
+    <string name="TITULO6">SALIR</string>
+    <string name="TITULO7">UNIVERSIDAD MARIANA</string>
+    <string name="TITULO8">INGENIERIA DE SISTEMAS</string>
+    <string name="TITULO9">HISTORIAL</string>
+    <string name="TITUL10">REGRESAR</string>
+    <string name="delgadezsevera">Tienes delgadez severa</string>
+    <string name="obesidadmorbida">Tienes obesidad mórbida</string>
+    <string name="delgadezmoderada">Tienes delgadez moderada</string>
+    <string name="delgadezleve">Tienes delgadez Leve</string>
+    <string name="pesonormal">Tienes peso normal</string>
+    <string name="preobes">Tienes Preobesidad</string>
+    <string name="obesidadleve">Tienes obesidad leve</string>
+    <string name="obesidadmedia">Tienes obesidad media</string>
+    <string name="imc">"Tu IMC es "</string>
+    <string name="peso">Escriba el peso</string>
+    <string name="estatura">Escriba la estatura</string>
+
+</resources>

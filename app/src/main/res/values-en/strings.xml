@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="TITULO1">CALCULATOR BMI</string>
+    <string name="TITULO2">WEIGHT IN KILOGRAMS</string>
+    <string name="TITULO3">METER STATUS</string>
+    <string name="TITULO4">CALCULATE</string>
+    <string name="TITULO5">ABOUT</string>
+    <string name="TITULO6">GET OUT</string>
+    <string name="TITULO7">MARIANA UNIVERSITY</string>
+    <string name="TITULO8">SYSTEMS ENGINEER</string>
+    <string name="TITULO9">RECORD</string>
+    <string name="delgadezsevera">You have severe thinness</string>
+    <string name="obesidadmorbida">You have morbid obesity</string>
+    <string name="delgadezmoderada">You have moderate thinness</string>
+    <string name="delgadezleve">You have slight thinness</string>
+    <string name="pesonormal">You have normal weight</string>
+    <string name="preobes">You have Preobesity</string>
+    <string name="obesidadleve">You have mild obesity</string>
+    <string name="obesidadmedia">You have average obesity</string>
+    <string name="imc">\"Your BMI: \"</string>
+    <string name="TITUL10">RETURN</string>
+    <string name="peso">Write the weight</string>
+    <string name="estatura">Write the height</string>
+</resources>
